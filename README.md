@@ -5,7 +5,7 @@ A machine learning-powered web application that detects fraudulent financial tra
 ---
 
 ## 🚀 Live Demo
-👉 **[Try the App](https://fraud-detection-system.onrender.com)**
+👉 **[Try the App](https://fraud-detection-system-lzen.onrender.com/)**
 
 ---
 
